@@ -1,0 +1,5 @@
+database:
+  url: aliyun.com
+  port: 3306
+  username: taxi
+  password: taxi
